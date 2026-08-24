@@ -1,13 +1,13 @@
 ---
 title: "Pele de bicho"
-author: "Grão-Mestre"
-genre: "fabula"
+author: "Irmãos Grimm"
+genre: "folclore"
 cover_url: "https://cdn.jsdelivr.net/gh/lucastonidev/rimufic-storys@main/content/covers/pele-de-bicho.webp"
 synopsis: "A história fala sobre uma princesa que foge de casa usando um manto feito de retalhos de peles de vários animais para escapar das cobranças do próprio pai."
-created_at: "2026-08-24T02:13:04.237Z"
+updated_at: "2026-08-24T02:21:55.310Z"
 ---
 
-H ouve, uma vez, um rei cuja esposa tinha os cabelos de ouro e era tão linda como não havia outra na terra.  
+Houve, uma vez, um rei cuja esposa tinha os cabelos de ouro e era tão linda como não havia outra na terra.  
   
 Quis o céu que a nobre e bondosa rainha adoecesse sem que médico algum pudesse salvar-lhe a vida. Sentindo aproximar-se a última hora, chamou o esposo e recomendou:  
   
