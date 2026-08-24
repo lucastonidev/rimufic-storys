@@ -1,10 +1,10 @@
 ---
 title: "Pele de bicho"
 author: "Irmãos Grimm"
-genre: "folclore"
+genre: "fabula"
 cover_url: "https://cdn.jsdelivr.net/gh/lucastonidev/rimufic-storys@main/content/covers/pele-de-bicho.webp"
 synopsis: "A história fala sobre uma princesa que foge de casa usando um manto feito de retalhos de peles de vários animais para escapar das cobranças do próprio pai."
-updated_at: "2026-08-24T02:21:55.310Z"
+updated_at: "2026-08-24T02:22:32.576Z"
 ---
 
 Houve, uma vez, um rei cuja esposa tinha os cabelos de ouro e era tão linda como não havia outra na terra.  
