@@ -1,64 +1,184 @@
 ---
 title: "Cinderela"
-author: "Lilian Lana Lopes"
+author: "Irmãos Grimm"
 genre: "fabula"
 cover_url: "https://cdn.jsdelivr.net/gh/lucastonidev/rimufic-storys@main/content/covers/cinderela.webp"
 synopsis: "Cinderela é uma jovem órfã que sofre maus-tratos de sua madrasta e meias-irmãs, mas consegue ir a um baile real com a ajuda de uma fada madrinha e se casa com o príncipe"
-created_at: "2026-08-26T22:40:18.557Z"
+updated_at: "2026-08-27T01:17:31.722Z"
 ---
 
-Era uma vez uma jovem de rara beleza, coração generoso, inteligência viva e alma profunda, mas envolta em uma tristeza silenciosa. Seu nome era Cinderela. Órfã de pai e mãe, vivia em um castelo que já fora seu lar, mas agora pertencia a uma madrasta de olhar duro e espírito cruel, que tinha duas filhas de igual mau gênio: Anastácia e Genoveva.
+Era uma vez um homem muito rico, cuja mulher adoeceu. Esta, quando sentiu o fim aproximar-se, chamou a sua única filha à cabeceira e disse-lhe com muito amor:
 
-A pobre Cinderela, a quem todos chamavam de Borralheira, cumpria sozinha todas as tarefas da imensa morada — varria os salões, esfregava as escadarias, cozinhava os banquetes, passava as roupas e arrumava os aposentos —, sem nunca receber um gesto de gratidão. Sua única consolação eram os pequenos amigos que a natureza lhe dera: os ratinhos que corriam pelo celeiro, os passarinhos que cantavam na janela, o cavalo fiel e o gato que se aninhava em seus pés.
+\-Amada filha, continua sempre boa e piedosa. O amor de Deus há de acompanhar-te sempre. Lá do céu velarei sempre por ti.
 
-Certo dia, um mensageiro real atravessou a aldeia com uma notícia que fez o coração de todas as donzelas palpitar mais forte: o Rei convidava todas as moças do reino para um grande baile, onde o Príncipe, herdeiro do trono, escolheria sua futura esposa.
+E dito isto, fechou os olhos e morreu.
 
-Mal a notícia foi ouvida, Anastácia e Genoveva atracaram-se em discussões, cada qual certa de que seria a eleita.
+A menina ia todos os dias para junto do túmulo da mãe chorar e regar a terra com suas lágrimas. E continuou boa e piedosa. Quando o inverno chegou, a neve fria e gelada da Europa cobriu o túmulo com um manto branco de neve. Quando o sol da primavera o derreteu, o seu pai casou-se com uma mulher ambiciosa e cruel que já tinha duas filhas parecidas com ela em tudo.
 
-— Eu também poderia ir? — perguntou Cinderela, com a voz tímida.
+Mal se cruzou com elas a pobre órfã percebeu que nada de bom podia esperar delas, pois logo que a viram disseram-lhe com desprezo:
 
-— Você? — respondeu a madrasta com um sorriso de desprezo. — Só se tiver um vestido digno de uma festa real... e depois de haver terminado todo o serviço da casa!
+O que é que esta moleca faz aqui? Vai para a cozinha, que é lá o teu lugar!!!
 
-Cinderela retirou-se para o quarto, e ali, debruçada sobre a cama, deixou escapar lágrimas amargas. Seus amigos, porém, haviam ouvido tudo. Os ratinhos e os passarinhos, com suas patas e bicos hábeis, teceram durante a noite um vestido digno de conto de fadas.
+E a madrasta acrescentou:
 
-Quando, no dia do baile, Cinderela entrou no quarto após um longo dia de trabalho, levou as mãos ao rosto e exclamou, maravilhada:
+Têm razão, filhas. Ela será nossa empregada e terá que ganhar o pão com o seu trabalho diário.
 
-— Oh, que vestido encantado! Meus amigos fizeram isso por mim?
+Tiraram-lhe os seus lindos vestidos, vestiram-lhe um vestido muito velho e deram-lhe tamancos de madeira para calçar.
 
-Seu coração transbordou de alegria. Mas ao descer a escadaria, radiante, as duas irmãs, tomadas de inveja, lançaram-se sobre ela com gritos e rasgaram o vestido em pedaços.
+E agora já para a cozinha! - disseram elas, rindo.
 
-Cinderela, aos prantos, recolheu os farrapos e correu para o jardim, onde a noite começava a cair. Foi então que um clarão suave e dourado iluminou a relva, e dele surgiu uma figura luminosa e serena.
+E, a partir desse dia, a menina passou a trabalhar arduamente, desde que o sol nascia até altas horas da noite: ia buscar água ao poço, acendia a lareira, cozinhava, lavava a roupa, costurava, esfregava o chão...
 
-— Não chores, minha filha — disse a doce voz. — Sou sua fada-madrinha, e vim para ajudá-la. Farei com que você vá ao baile, mas escuta: tudo isso durará apenas até a meia-noite. Quando o relógio soar a décima segunda badalada, o encanto se desfará.
+À noite, extenuada de trabalho, não tinha uma cama para descansar. Deitava-se perto da lareira, junto ao borralho (cinzas), razão pela qual puseram-lhe o apelido de Gata Borralheira.
 
-Com um toque de sua varinha de condão, a fada transformou Cinderela: seus trapos em um vestido de cetim e rendas, tão brilhante quanto a lua; uma abóbora em uma carruagem de ouro; os ratinhos em cavalos brancos como a neve; e seus tamancos de madeira em delicados sapatinhos de cristal.
+Os dias se passavam e a sorte da menina não se alterava. Pelo contrário, as exigências da madrasta e das suas filhas eram cada vez maiores.
 
-— Minha querida madrinha — disse Cinderela, com os olhos brilhando de gratidão. — Como poderei agradecer?
+Um dia, o pai ia para a cidade e perguntou às duas enteadas o que queriam que ele lhes trouxesse.
 
-— Apenas divirta-se, minha menina — respondeu a fada com um sorriso. — Mas não se esqueça: à meia-noite, tudo voltará ao que era.
+Lindos vestidos - disse uma.
 
-No salão do castelo real, Cinderela surgiu como um sonho. Sua beleza era tamanha que todos se calaram ao vê-la. O Príncipe, ao fitar seus olhos, sentiu o coração disparar e não a deixou mais: dançaram valsa após valsa, como se o tempo houvesse parado.
+Jóias - disse a outra.
 
-Anastácia, Genoveva e a madrasta, reconhecendo-a sob o véu do encanto, consumiam-se de raiva e inveja.
+E tu, filhinha, Gata Borralheira, o que queres? - perguntou-lhe o pai.
 
-Mas, quando o relógio começou a soar a meia-noite, Cinderela lembrou-se das palavras da fada. Num sobressalto, desvencilhou-se do Príncipe e correu escada abaixo. Ele tentou segui-la, mas era tarde. No meio da fuga, um de seus sapatinhos de cristal se soltou e ficou na escadaria. Sem tempo para voltar, Cinderela deixou-o ali e desapareceu na noite, enquanto o encanto se desfazia: a carruagem tornou-se abóbora, os cavalos, ratinhos, e seu vestido, trapos.
+Um ramo verde da primeira árvore que encontrares no caminho de volta.
 
-Mas o sapatinho de cristal — ah! — esse permaneceu imutável, como uma promessa.
+Terminada a compra, ele comprou os vestidos para as enteadas e as jóias que tinham pedido e no caminho de regresso cortou para a filha um ramo da primeira árvore que encontrou. De uma oliveira.
 
-No caminho de volta, ela segredava ao vento:
+Ao chegar em casa, deu às enteadas o que lhe tinham pedido e entregou à filha um galho de oliveira, árvore que produz azeitonas. Ela correu para junto do túmulo da mãe, enterrou o ramo na terra e chorou tanto que as lágrimas o regaram. Começou a crescer e tornou-se uma bela árvore.
 
-— Como o Príncipe é bom e belo... Jamais o verei outra vez. E no entanto, como eu gostaria de ser sua noiva...
+A menina continuou a visitar o túmulo da mãe todos os dias e certa vez ouviu uma bonita pomba branca dizer-lhe:
 
-No castelo, o Príncipe ergueu o sapatinho de cristal e, com um suspiro, disse ao Rei:
+Não chores mais, minha querida. Lembra-te que, a partir de agora, cumprirei todos os teus desejos.
 
-— Eu não sei quem ela é, pai. Mas sei que este sapatinho é a única pista de seu paradeiro.
+Pouco depois o rei anunciou a todo o reino que ia dar uma festa durante três dias para a qual estavam convidadas todas as jovens que queriam casar-se, a fim de que o príncipe herdeiro pudesse escolher a sua futura esposa.
 
-O Rei, vendo a paixão do filho, ordenou que um mensageiro percorresse todo o reino para provar o sapatinho em cada donzela.
+Imediatamente as duas filhas da madrasta chamaram a Gata Borralheira e disseram-lhe:
 
-E assim o fez. Depois de longa jornada, o mensageiro bateu à porta do castelo onde vivia Cinderela. Quando o sapatinho de cristal se ajustou perfeitamente ao seu pé pequeno e delicado, ele ergueu os olhos e exclamou:
+Penteia-nos e veste-nos, pois temos que ir ao baile do príncipe para que ele possa escolher qual de nós duas será a sua esposa.
 
-— Encontrei-a! É ela, a donzela que o Príncipe procura!
+A Gata Borralheira obedeceu humildemente. Mas quando viu as duas luxuosamente vestidas, desatou a chorar e suplicou à madrasta que também a deixasse ir ao baile.
 
-E a inveja das irmãs e da madrasta foi tamanha que suas faces se tornaram pálidas como a cera, enquanto Cinderela, enfim, partia para o castelo real.
+Ao baile, tu??? - respondeu ela - Já te olhaste ao espelho?
 
-Ela se casou com o Príncipe, e viveu feliz para sempre, porque a bondade e a beleza da alma, mais cedo ou mais tarde, sempre encontram seu destino. E, como dizem os contos antigos, viveram felizes e tiveram muitos e muitos dias de alegria.
+A madrasta, face à insistência da Gata Borralheira, acrescentou, ao mesmo tempo que atirava um pote de lentilhas para as cinzas:
+
+Está bem! Se separares as lentilhas em duas horas, irás conosco.
+
+A menina saiu para o jardim a chorar e lembrando-se do que a pomba lhe tinha dito, expressou o seu primeiro desejo:
+
+Dócil pombinha, rolinhas e todos os passarinhos do céu, venham ajudar-me a separar as lentilhas.
+
+Os grãos bons no prato, e os maus no papo.
+
+Duas pombinhas brancas, seguidas de duas rolinhas e de uma nuvem de passarinhos entraram pela janela da cozinha, e começaram a bicar as lentilhas. E muito antes de terminarem as duas horas concedidas, separaram as lentilhas. Entusiasmada, a menina foi mostrar à madrasta o prato com as lentilhas escolhidas. - Muito bem. – disse a madrasta, com ironia - Mas que vestido vais usar? E além disso, tu não sabes dançar. Será melhor ficares em casa.
+
+Desconsolada, a Gata Borralheira começou a chorar, ajoelhou-se aos pés da madrasta e voltou a suplicar-lhe que a deixasse ir ao baile.
+
+Está bem. - disse ela com cinismo - Dou-te outra oportunidade.
+
+E voltou a espalhar dois potes de lentilhas sobre as cinzas.
+
+Se conseguires escolher as lentilhas numa hora, irás ao baile.
+
+A doce menina saiu a correr para o jardim e gritou:
+
+Doces pombinhos, rolinhas e todos os passarinhos do céu, venham ajudar-me a separar as lentilhas.
+
+Os grãos bons no prato, e os ruins no papo.
+
+De novo, duas pombas brancas entraram pela janela da cozinha, depois as pequenas rolas e um bando de passarinhos, e pic-pic-pic escolheram-nas e voaram para sair por onde entraram.
+
+A menina logo correu e mostrou à madrasta as lentilhas escolhidas, mas de nada lhe serviu.
+
+Deixa-me em paz com as tuas lentilhas! Vais ficar em casa e pronto! Ponto final! E cest fini. pronuncia-se: Cé finí).
+
+Virou-lhe as costas e chamou as filhas.
+
+Quando já não havia ninguém em casa, a Gata Borralheira foi junto ao túmulo da mãe, debaixo da oliveira, e gritou:
+
+Árvorezinha. Toca a abanar e a sacudir. Atira ouro e prata para eu me vestir.
+
+A pomba que lhe tinha oferecido ajuda, apareceu sobre um ramo e, estendendo as asas, transformou os seus farrapos num lindíssimo vestido de baile e os seus tamancos em luxuosos sapatos bordados a ouro e prata.
+
+Quando entrou no salão de baile, todos os presentes se admiraram perante tamanha beleza. Mas as mais surpreendidas foram as duas filhas da madrasta que estavam convencidas que seriam as mais belas da festa. Porém, nem elas, nem a madrasta ou o pai reconheceram a Gata Borralheira.
+
+O príncipe ficou fascinado ao vê-la. Tomou-a pela mão e os dois começaram o baile. Durante toda a noite esteve ao seu lado e não permitiu que mais ninguém dançasse com ela.
+
+Chegado o momento de se despedirem, o príncipe ofereceu-se para acompanhá-la, pois ardia de desejo por saber quem era aquela jovem e onde morava. Mas ela deu uma desculpa para se retirar por momentos e aproveitou para abandonar o palácio a correr e deixar em baixo de uma árvore o seu formoso vestido e os sapatos.
+
+A pomba, que estava à sua espera, pegou neles com as suas patinhas e desapareceu na escuridão da noite. Ela vestiu o vestido cinzento, o avental e os tamancos e, como de costume, deitou-se junto à chaminé e adormeceu. No dia seguinte, quando se aproximou a hora do início do segundo baile, esperou até ouvir partir a carruagem e correu para junto da árvore:
+
+Árvorezinha. Toca a abanar e a sacudir. Atira ouro e prata para me vestir.
+
+E de novo apareceu a pomba e a vestiu com um vestido ainda mais lindo que o da noite anterior e calçou-lhe uns sapatos que pareciam de ouro puro.A sua aparição no palácio causou sensação maior ainda do que da primeira vez. O próprio príncipe, que a esperava impaciente, sentiu-se ainda mais deslumbrado. Pegou-lhe na mão e, de novo, dançou com ela toda a noite.
+
+Ao chegar a hora da despedida, o príncipe voltou a oferecer-se para acompanhá-la, mas ela insistiu que preferia voltar sozinha para casa. Mas desta vez o príncipe seguiu-a. De repente, parecia que tinha sido engolida pelo chão. Em vez de entrar em casa, a jovem Gata Borralheira, de vergonha, escondeu-se atrás de uma frondosa oliveira que havia no jardim. O príncipe continuou a procurá-la pelas redondezas, até que decepcionado regressou ao palácio.
+
+A Gata Borralheira abandonou então o seu esconderijo, e quando a madrasta e as filhas chegaram ela já tinha tirado as vestes faustosas (bonitas) e posto os seus trapos velhos.
+
+No terceiro dia, quando o pai fustigou o cavalo e a carruagem se afastou com a sua esposa e filhas, a menina aproximou-se de novo da árvore e disse:
+
+Árvorezinha. Toca a abanar e a sacudir. Atira ouro e prata para me vestir.
+
+E a pomba, uma vez mais, trouxe-lhe um vestido de sonho, de seda com aplicações de suntuoso chale e uns sapatos bordados a ouro para os seus pequeninos e delicados pés. E depois, colocou-lhe sobre os ombros uma capa de veludo dourado.
+
+Quando entrou no salão de baile, a belíssima Gata Borralheira foi recebida com uma exclamação de assombro por parte de todos os presentes.
+
+O príncipe apressou-se a beijar-lhe a mão e a abrir o baile, não se separando dela toda a noite.
+
+Pouco antes da meia-noite, a jovem despediu-se do príncipe e pôs-se a correr. O príncipe não conseguiu alcançá-la mas encontrou na escadaria uns sapatinhos dourados que ela tinha perdido durante a sua precipitada fuga. Apanhou-os e apertou-os contra o coração.
+
+Na manhã seguinte, mandou os seus mensageiros difundirem por todo o reino que se casaria com aquela que conseguisse calçar o precioso sapato.
+
+Depois de todas as princesas, duquesas e condessas o terem inutilmente experimentado, ordenou aos seus emissários que o sapato fosse provado por todas as jovens, qualquer que fosse a sua condição social e financeira.
+
+Quando chegaram à casa onde vivia a Gata Borralheira, a irmã mais velha insistiu que devia ser ela a primeira a experimentar e, acompanhada pela mãe que já a imaginava rainha, subiu ao quarto, convencida que lhe servia. Mas o seu pé era demasiado grande. Então a mãe, furiosa, obrigou-a a calçá-lo à força, dizendo-lhe:
+
+Embora te aperte agora, não te preocupes. Pensa que em breve serás rainha e não terás que andar a pé nunca mais.
+
+A jovem disfarçou a dor que sentia e subiu para a carruagem, apresentando-se diante do filho do rei.
+
+Embora ele tenha notado de imediato que aquela não era a bela desconhecida que conhecera no baile, teve que considerá-la como sua prometida. Montou-a no seu cavalo e foram juntos dar um passeio. Mas, ao passar diante de uma frondosa árvore, viu sobre os seus ramos duas pombas brancas que o advertiram:
+
+Olha para o pé da donzela, e verás que o sapato não é dela...
+
+O príncipe desmontou e tirou-lhe o sapato. E ao ver como o pé estava roxo e inchado, percebeu que tinha sido enganado. Voltou à casa e ordenou que a outra irmã experimentasse o sapato.
+
+A irmã mais nova subiu ao quarto, acompanhada da mãe, e tentou calçá-lo. Mas o seu pé também era demasiado grande.
+
+E a mãe obrigou-a a calçá-lo à força, dizendo-lhe:
+
+Embora te aperte agora, não te preocupes. Pensa que em breve serás rainha e não terás que andar a pé nunca mais.
+
+A filha obedeceu, enfiou o pé no sapato e, dissimulando a dor, apresentou-se ao príncipe que, apesar de ver que ela não era a bela desconhecida do baile, teve que considerá-la como sua prometida. Montou-a no seu cavalo e levou-a a passear pelo mesmo sítio onde levara a sua irmã. Ao passar diante da árvore onde estavam as duas pombas, ouviu-as de novo adverti-lo:
+
+Olha para o pé da donzela, e verás que o sapato não é dela...
+
+O príncipe tirou-lhe o sapato e ao ver que tinha o pé ainda mais inchado que a irmã, percebeu que também ela o tinha enganado.
+
+Aqui vos trago esta impostora. E dai graças a Deus por não ordenar que sejam castigadas. Mas se ainda tendes outra filha, estou disposto a dar-vos nova oportunidade e eu mesmo lhe calçarei o sapato.
+
+Não. Não temos mais filhas - disse a madrasta.
+
+Mas o pai acrescentou:
+
+Bem, a verdade é que tenho uma filha do meu primeiro casamento, a qual vive conosco. É ela que faz a limpeza da casa e por isso anda sempre suja. É a Gata Borralheira.
+
+As minhas ordens dizem que todas as jovens sem exceção devem experimentar o sapato. Tragam-na à minha presença. Eu mesmo lho calçarei.
+
+A Gata Borralheira tirou um dos pesados tamancos e calçou o sapato sem o menor esforço. Coube-lhe perfeitamente.
+
+O príncipe, maravilhado, olhou bem para ela e reconheceu a formosa donzela com quem tinha dançado.
+
+A minha amada desconhecida! - exclamou ele - Só tu serás minha dona e senhora.
+
+O príncipe, radiante de felicidade, sentou-a ao seu lado no cavalo e tomou o mesmo caminho por onde tinha ido com as duas impostoras. Pouco depois, ao aproximar-se da árvore onde estavam as pombas, ouviu-as dizer:
+
+Continua, Príncipe, a tua cavalgada, pois a dona do sapato já foi encontrada.
+
+As pombas pousaram sobre os ombros da jovem e os seus farrapos transformaram-se no deslumbrante vestido que ela tinha levado ao último baile.
+
+Chegaram ao palácio e de imediato foi celebrado o casamento. Quando os habitantes do reino souberam da forma como o mau e desnaturado pai, a madrasta e as duas filhas tinham tratado aquela que agora era a sua adorada princesa, começaram a desprezá-los de tal modo que eles tiveram que abandonar o país.
+
+A princesa, fiel à promessa feita à mãe, continuou a ser piedosa e bondosa como sempre e continuou a visitar o seu túmulo e a orar debaixo da árvore, testemunha de tantas dores e alegrias.
